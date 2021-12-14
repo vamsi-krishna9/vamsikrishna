@@ -1,0 +1,156 @@
+body
+{
+  margin:0;
+  text-align: center;
+  font-family: helvetica, sans-serif;
+  font-size:20px;
+}
+.tc
+{
+  background-color: #C2FFF9;
+  position:relative;
+  padding-top:155px;
+}
+h2
+{
+  color: #FF4C29;
+}
+h3
+{
+  color: #FF4C29;
+  font-weight: normal;
+}
+h1
+{
+  font-size: 90px;
+  line-height:1;
+  color: #FF4C29;
+  font-family: 'Sacramento', cursive;
+  margin-top:80px;
+  margin-bottom:0;
+}
+.topc
+{
+  position: absolute;
+  right:400px;
+  top: 130px;
+}
+.bottomc
+{
+  position:absolute;
+}
+.skill-row
+{
+  background-color: #b3d9ff;
+  width:50%;
+  margin: 100px auto 100px auto;
+  text-align:left;
+  line-height:2;
+}
+.swd
+{
+  float:right;
+  margin-right: 30px;
+}
+.add
+{
+  float:left;
+  margin-right: 30px;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 7%;
+  margin:100px auto 100px auto;
+}
+.btn {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+.profile
+{
+  width:50%;
+  margin:0 auto 30px auto;
+}
+.bottom-container
+{
+  background-color: grey;
+  padding:40px;
+  margin:0 0 0 0;
+  line-height:2;
+}
+.footer-link
+{
+  margin-right: 35px;
+}
+.middle-container
+{
+  background-color: #b3d9ff;
+  margin:0;
+  padding-bottom: 15px;
+  padding-top:55px;
+}
+p
+{
+  line-height: 2;
+}
+.me
+{
+  position:absolute;
+  right:100px;
+  top:20px;
+}
+a
+{
+  text-decoration: none;
+}
+a:hover
+{
+  color:#EAF6F6;
+}
+.par
+{
+  color:white;
+  font-size: 14px;
+}
+.pt
+{
+  width:50%;
+  margin:0  auto 75px auto;
+}
+.nav
+{
+  position:fixed;
+  top:0;
+  width:100%;
+  height:85px;
+  background-color: #ffccee;
+}
+.nug
+{
+  position: absolute;
+  right:10px;
+  top:55px;
+  margin:0;
+}
